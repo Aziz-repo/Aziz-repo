@@ -1,8 +1,10 @@
-package com.example.paperscanner;
+package com.example.paperscanner.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.paperscanner.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/home.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/parametrevector.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/rectangle_3.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/rectangle_4.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/rectangle_5.xml" value="0.2703125" />
         <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/rounded_corners.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/roundedcorners.xml" value="0.2703125" />
+        <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/drawable/vector.xml" value="0.2703125" />
         <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/aziz-ws/AndroidStudioProjects/PaperScanner/app/src/main/res/layout/fragment_nav.xml" value="0.4" />
       </map>

@@ -2,4 +2,13 @@
     <string name="app_name">PaperScanner</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- strings.xml -->
+    <string name="paper_scaner">
+        Paper Scanner
+    </string>
+    <string name="search_docu">
+        Search  documents
+    </string>
+
+
 </resources>
